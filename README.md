@@ -18,7 +18,7 @@ API REST para gerenciamento de veículos com autenticação JWT, controle de ace
 
 ```bash
 # Clone e entre na pasta
-git clone <seu-repo>
+git clone https://github.com/DaviFRibeiro/veiculos_api.git
 cd veiculos-api
 
 # Suba os serviços (PostgreSQL + Redis + API)
@@ -42,7 +42,7 @@ Documentação Swagger: http://localhost:8000/docs
 
 ```bash
 # 1. Clone o repositório
-git clone <seu-repo>
+git clone https://github.com/DaviFRibeiro/veiculos_api.git
 cd veiculos-api
 
 # 2. Crie e ative o ambiente virtual
